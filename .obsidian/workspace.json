@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "011291c28113bbd3",
+        "id": "0ea85708f5d4572d",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b7b2e19421987a",
+            "id": "1d14acf918066aff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "livello trasporto/Trasporto affidabile.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "livello trasporto/Trasporto affidabile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "livello trasporto/Trasporto affidabile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "livello trasporto/Trasporto affidabile.md"
+              }
             }
           }
         ],
@@ -142,32 +150,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a5b7b2e19421987a",
+  "active": "1d14acf918066aff",
   "lastOpenFiles": [
-    "index.md",
+    "livello trasporto/Protocollo TCP.md",
+    "livello trasporto/Protocollo UDP.md",
+    "livello trasporto/Trasporto affidabile.md",
+    "livello trasporto/Servizi del livello trasporto.md",
+    "Index.md",
     "Protocolli applicativi/Livello applicativo.md",
+    "data/Pasted image 20240617105121.png",
+    "data/Pasted image 20240617105047.png",
+    "data/Pasted image 20240617105023.png",
+    "data/Pasted image 20240617105012.png",
+    "data/Pasted image 20240617103944.png",
+    "Protocolli applicativi/Domain Name System.md",
+    "Protocolli applicativi/Applicazioni P2P.md",
     "Introduzione al corso.md",
     "temp/2024-02-19.md",
     "temp/2024-02-23.md",
     "temp/2024-02-21.md",
     "static/esercitazioni/1 Esercizi Commutazione Ritardi.md",
-    "livello trasporto/Trasporto affidabile.md",
-    "livello trasporto/Protocollo TCP.md",
-    "livello trasporto/Servizi del livello trasporto.md",
     "data/Pasted image 20240502161336.png",
     "data/Pasted image 20240502160835.png",
     "data/Pasted image 20240502160022.png",
     "data/Pasted image 20240502155933.png",
     "data/Pasted image 20240502154850.png",
-    "livello trasporto/Protocollo UDP.md",
     "Protocolli applicativi/http/HTTP2.md",
     "Protocolli applicativi/http/HTTP.md",
-    "data/Pasted image 20240322075741.png",
-    "data/Pasted image 20240322074105.png",
-    "data/Pasted image 20240322072341.png",
     "modelli funzionali/Commutazione di pacchetto.md",
-    "data/Pasted image 20240322071009.png",
-    "Protocolli applicativi/Applicazioni P2P.md",
     "livello trasporto",
     "Protocolli applicativi",
     "modelli funzionali/Commutazione di circuito.md",
@@ -178,13 +188,10 @@
     "modelli funzionali/Servizio di comunicazione.md",
     "modelli funzionali/Modello a livelli.md",
     "sistemi di comunicazione/Livello fisico.md",
-    "Protocolli applicativi/Domain Name System.md",
     "Protocolli applicativi/http/Traffico ed efficienza.md",
     "Introduzione e architetture/Architettura fisica.md",
     "Introduzione e architetture/Reti di reti.md",
     "Introduzione e architetture/Componenti fisiche di Internet.md",
-    "Introduzione e architetture/Definizione di Internet.md",
-    "data/Pasted image 20240314103110.png",
     "static/esercitazioni",
     "static/laboratorio/lab1-24-03-13/http-server-response-compare.py",
     "static/laboratorio/lab1-24-03-13/http-server-response-mult.py",
