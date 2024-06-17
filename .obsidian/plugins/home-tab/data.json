@@ -1,0 +1,37 @@
+{
+  "logoType": "lucideIcon",
+  "logo": {
+    "lucideIcon": "network",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Fondamenti di Comunicazioni e Internet",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": true,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "index.md",
+      "timestamp": 1718610914756
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": false,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": true,
+  "omnisearch": false
+}

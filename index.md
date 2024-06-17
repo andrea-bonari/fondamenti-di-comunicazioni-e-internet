@@ -1,0 +1,15 @@
+Il corso di Fondamenti di Comunicazioni e Internet copre reti di telecomunicazione, protocolli di comunicazione e architetture a strati, incluse commutazione di pacchetto e di circuito. Analizza segnali, mezzi trasmissivi, throughput e ritardi. Studia protocolli applicativi (HTTP, FTP, SMTP, DNS, BitTorrent), livelli di trasporto (UDP, TCP) e networking (IPv4, DHCP, NAT, ICMP, IPv6). Copre routing (RIP, OSPF, BGP), reti locali (Ethernet, WiFi) e include attività di laboratorio su analisi del traffico, programmazione socket e configurazione di rete.
+
+1. [[Introduzione al corso]]
+2. [[Definizione di Internet|Internet]]
+	1. [[Componenti fisiche di Internet]]
+	2. [[Architettura fisica]]
+	3. [[Reti di reti]]
+3. [[Protocolli di comunicazione]]
+	1. [[Commutazione di circuito]]
+	2. [[Commutazione di pacchetto]]
+	3. [[Servizio di comunicazione]]
+4. [[Modello a livelli|Modello di Internet]]
+	1. [[Livello fisico]]
+	2. [[Livello applicativo]]
+5. [[HTTP|Protocollo HTTP]]
