@@ -4,6 +4,17 @@
 >| ------------- | ------------- | -------------- | ------------- | ---------- | ---------- | --------------- |
 >| $$255.0.0.0$$ | $$124.0.0.0$$ | $$145.6.7.23$$ | $$\text{UG}$$ | $$4$$      | $$20$$     | $$\text{Eth}1$$ |
 >| $$\cdots$$    | $$\cdots$$    | $$\cdots$$     | $$\cdots$$    | $$\cdots$$ | $$\cdots$$ | $$\cdots$$      |
+>
+>Flags:
+>- U: route attiva
+>- G: destinatario fuori dalla sottorete
+>- H: destinatario è un host specifico
+>- D: rotta dinamica creata dal protocollo di routing o reindirizzamento ICMP
+>- M: rotta modificata dal protocollo di routing o reindirizzamento ICMP
+>
+>Metric: numero di connessioni attive per quella rotta
+>Use: numero pacchetti verso il destinatario
+>Interface: nome interfaccia di uscita
 
 ### Inoltro diretto con le netmask
 Per inoltrare un pacchetto occorre capire se appartiene alla sottorete di una delle interfacce. Per farlo si fa un AND bit a bit tra l'indirizzo dell'interfaccia e netmask, e tra l'indirizzo di destinazione e netmask. Se i due risultati coincidono allora la sottorete è la stessa e si procede all'inoltro diretto.

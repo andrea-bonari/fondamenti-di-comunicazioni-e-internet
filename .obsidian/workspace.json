@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Livello di rete/IPv4/Tabelle di routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Livello di rete/IPv4/Tabelle di routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Livello di rete/IPv4/Tabelle di routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Livello di rete/IPv4/Tabelle di routing.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ea8cde9ecb5581f5",
+  "active": "e560839d8189d478",
   "lastOpenFiles": [
+    "Index.md",
     "Introduzione al corso.md",
     "Livello di rete/IPv4/Subnetting.md",
     "Livello di rete/IPv4/Supernetting.md",
@@ -173,7 +174,6 @@
     "livello trasporto/Protocollo TCP.md",
     "Livello di rete/IPv4/IPv4.md",
     "data/Pasted image 20240618140741.png",
-    "Index.md",
     "Livello di rete/IPv4/Inoltro dei pacchetti IP.md",
     "data/Pasted image 20240618113316.png",
     "data/Pasted image 20240618102022.png",
