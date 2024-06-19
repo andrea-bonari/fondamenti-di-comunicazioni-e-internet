@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di rete/IPv4/Tabelle di routing.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "livello trasporto/Protocollo TCP.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di rete/IPv4/Tabelle di routing.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di rete/IPv4/Tabelle di routing.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di rete/IPv4/Tabelle di routing.md"
+                "file": "Index.md"
               }
             }
           }
@@ -162,17 +163,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e560839d8189d478",
+  "active": "ccd60d44826106cf",
   "lastOpenFiles": [
+    "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
+    "Livello di rete/Instadamento in rete/Protocolli di routing.md",
+    "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
+    "Livello di rete/Instadamento in rete/Algoritmo di Bellman-Ford.md",
+    "Livello di rete/Instadamento in rete/Instradamento in rete.md",
+    "data/Pasted image 20240619150803.png",
+    "Livello fisico/Livello fisico.md",
     "Index.md",
+    "Livello di rete/Protocolli di gestione IP/Protocolli ARP e RARP.md",
+    "Livello di rete/Protocolli di gestione IP/Protocolli di gestione IP.md",
+    "Livello di rete/Protocolli di gestione IP",
+    "Livello di rete/Instadamento in rete",
+    "Livello di rete/Network Address Translation.md",
     "Introduzione al corso.md",
+    "Livello di rete/Protocolli di gestione IP/Protocollo DHCP.md",
+    "livello trasporto/Protocollo TCP.md",
+    "Livello di rete/Protocolli di gestione IP/Protocollo ICMP.md",
+    "data/Pasted image 20240619104152.png",
+    "data/Pasted image 20240619103946.png",
+    "data/Pasted image 20240619102648.png",
+    "data/Pasted image 20240619100617.png",
+    "Livello di rete/IPv4/Protocollo IPv4.md",
+    "Livello applicativo/Protocollo DNS.md",
+    "Livello applicativo/HTTP/HTTP2.md",
+    "Livello applicativo/HTTP/Protocollo HTTP.md",
+    "Livello di rete/IPv4/Tabelle di routing.md",
     "Livello di rete/IPv4/Subnetting.md",
     "Livello di rete/IPv4/Supernetting.md",
-    "Livello di rete/IPv4/Tabelle di routing.md",
     "Livello di rete/IPv4/Datagramma IPv4.md",
     "data/Pasted image 20240618141210.png",
-    "livello trasporto/Protocollo TCP.md",
-    "Livello di rete/IPv4/IPv4.md",
     "data/Pasted image 20240618140741.png",
     "Livello di rete/IPv4/Inoltro dei pacchetti IP.md",
     "data/Pasted image 20240618113316.png",
@@ -182,32 +204,11 @@
     "data/Pasted image 20240618100012.png",
     "livello trasporto/Trasporto affidabile.md",
     "Livello di rete",
-    "livello trasporto/Protocollo UDP.md",
-    "livello trasporto/Servizi del livello trasporto.md",
-    "Livello applicativo/Livello applicativo.md",
-    "data/Pasted image 20240617105121.png",
-    "data/Pasted image 20240617105047.png",
-    "data/Pasted image 20240617105023.png",
-    "data/Pasted image 20240617105012.png",
-    "data/Pasted image 20240617103944.png",
-    "Livello applicativo/Domain Name System.md",
-    "Livello applicativo/Applicazioni P2P.md",
-    "temp/2024-02-19.md",
-    "temp/2024-02-23.md",
-    "temp/2024-02-21.md",
-    "static/esercitazioni/1 Esercizi Commutazione Ritardi.md",
-    "Livello applicativo/HTTP/HTTP2.md",
-    "Livello applicativo/HTTP/HTTP.md",
-    "Modelli funzionali/Commutazione di pacchetto.md",
     "livello trasporto",
     "Livello applicativo",
-    "Modelli funzionali/Commutazione di circuito.md",
     "Modelli funzionali",
     "Livello fisico",
     "Introduzione e architetture",
-    "Modelli funzionali/Protocolli di comunicazione.md",
-    "static/esercitazioni",
-    "static/laboratorio/lab1-24-03-13/http-server-response-compare.py",
-    "static/laboratorio/lab1-24-03-13/http-server-response-mult.py"
+    "static/esercitazioni"
   ]
 }
