@@ -24,24 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Introduzione al corso.md",
+      "timestamp": 1718810644481
+    },
+    {
       "filepath": "Index.md",
-      "timestamp": 1718810415689
-    },
-    {
-      "filepath": "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
-      "timestamp": 1718810203509
-    },
-    {
-      "filepath": "Livello di rete/Instadamento in rete/Protocolli di routing.md",
-      "timestamp": 1718810170709
-    },
-    {
-      "filepath": "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
-      "timestamp": 1718807670835
-    },
-    {
-      "filepath": "Livello di rete/Instadamento in rete/Algoritmo di Bellman-Ford.md",
-      "timestamp": 1718807665202
+      "timestamp": 1718810642078
     }
   ],
   "starredFileStore": [],

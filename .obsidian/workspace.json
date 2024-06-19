@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3dfa07a6faaa5fa",
+        "id": "83077beae8c62923",
         "type": "tabs",
         "children": [
           {
-            "id": "e560839d8189d478",
+            "id": "50e840501d4e70f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd60d44826106cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
+                "file": "Introduzione al corso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Introduzione al corso.md"
               }
             }
           }
@@ -163,8 +150,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ccd60d44826106cf",
+  "active": "50e840501d4e70f6",
   "lastOpenFiles": [
+    "Index.md",
     "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
     "Livello di rete/Instadamento in rete/Protocolli di routing.md",
     "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
@@ -172,7 +160,6 @@
     "Livello di rete/Instadamento in rete/Instradamento in rete.md",
     "data/Pasted image 20240619150803.png",
     "Livello fisico/Livello fisico.md",
-    "Index.md",
     "Livello di rete/Protocolli di gestione IP/Protocolli ARP e RARP.md",
     "Livello di rete/Protocolli di gestione IP/Protocolli di gestione IP.md",
     "Livello di rete/Protocolli di gestione IP",

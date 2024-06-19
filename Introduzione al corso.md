@@ -49,7 +49,8 @@ LABORATORIO:
 - Lab 2: Programmazione socket in Python, parte I  
 - Lab 3: Programmazione socket in Python, parte II  
 - Lab 4: Configurazione e simulazione di rete (Packet Tracer), parte I  
--  Lab 6: Attività sperimentali su reti wireless  
+- Lab 5: Configurazione e simulazione di rete (Packet Tracer), parte II
+- Lab 6: Attività sperimentali su reti wireless  
 
 ### Prerequisiti
 Conoscenze di base di programmazione e architettura dei calcolatori.
@@ -70,5 +71,3 @@ L’esame durante gli appelli da calendario è scritto e consente di ottenere �
 - attività di laboratorio
 
 Il voto ﬁnale in trentesimi è pari al numero di punti ottenuti. È assegnato il voto di 30 e lode se la somma dei punti è superiore a 31
-
-velocità, adimensionale
