@@ -37,4 +37,9 @@ Il corso di Fondamenti di Comunicazioni e Internet copre reti di telecomunicazio
 		2. [[Algoritmo d Dijkstra]]
 		3. [[Protocolli di routing]]
 		4. [[Protocolli di routing in IP]]
-
+9. [[Livello di linea]]
+	1. [[Collegamenti punto-punto]]
+	2. [[Collegamenti broadcast]]
+	3. [[Tecnologie di reti locali]]
+	4. [[Collegamenti commutati]]
+	5. [[VLAN]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83077beae8c62923",
+        "id": "64aad881265b7dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "50e840501d4e70f6",
+            "id": "3bb2a54580f3dc51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "Livello di linea/VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "Livello di linea/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "Livello di linea/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduzione al corso.md"
+                "file": "Livello di linea/VLAN.md"
               }
             }
           }
@@ -150,52 +150,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "50e840501d4e70f6",
+  "active": "3bb2a54580f3dc51",
   "lastOpenFiles": [
+    "data/Pasted image 20240620142508.png",
+    "Livello di linea/Collegamenti commutati.md",
+    "data/Pasted image 20240620141606.png",
+    "Livello di linea/Tecnologie di reti locali.md",
+    "data/Pasted image 20240620135436.png",
+    "data/Pasted image 20240620135415.png",
+    "data/Pasted image 20240620134342.png",
+    "data/Pasted image 20240620134312.png",
+    "Livello di linea/Collegamenti broadcast.md",
+    "data/Pasted image 20240620114256.png",
+    "data/Pasted image 20240620112826.png",
+    "data/Pasted image 20240620112816.png",
+    "data/Pasted image 20240620110406.png",
+    "Livello di linea/Collegamenti punto-punto.md",
     "Index.md",
+    "data/Pasted image 20240620104827.png",
+    "Livello di linea/Livello di linea.md",
+    "Livello di linea/VLAN.md",
+    "Introduzione al corso.md",
+    "Livello di linea",
     "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
     "Livello di rete/Instadamento in rete/Protocolli di routing.md",
     "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
     "Livello di rete/Instadamento in rete/Algoritmo di Bellman-Ford.md",
     "Livello di rete/Instadamento in rete/Instradamento in rete.md",
-    "data/Pasted image 20240619150803.png",
     "Livello fisico/Livello fisico.md",
     "Livello di rete/Protocolli di gestione IP/Protocolli ARP e RARP.md",
     "Livello di rete/Protocolli di gestione IP/Protocolli di gestione IP.md",
     "Livello di rete/Protocolli di gestione IP",
     "Livello di rete/Instadamento in rete",
     "Livello di rete/Network Address Translation.md",
-    "Introduzione al corso.md",
     "Livello di rete/Protocolli di gestione IP/Protocollo DHCP.md",
-    "livello trasporto/Protocollo TCP.md",
+    "Livello trasporto/Protocollo TCP.md",
     "Livello di rete/Protocolli di gestione IP/Protocollo ICMP.md",
-    "data/Pasted image 20240619104152.png",
-    "data/Pasted image 20240619103946.png",
-    "data/Pasted image 20240619102648.png",
-    "data/Pasted image 20240619100617.png",
     "Livello di rete/IPv4/Protocollo IPv4.md",
     "Livello applicativo/Protocollo DNS.md",
     "Livello applicativo/HTTP/HTTP2.md",
     "Livello applicativo/HTTP/Protocollo HTTP.md",
     "Livello di rete/IPv4/Tabelle di routing.md",
-    "Livello di rete/IPv4/Subnetting.md",
-    "Livello di rete/IPv4/Supernetting.md",
-    "Livello di rete/IPv4/Datagramma IPv4.md",
-    "data/Pasted image 20240618141210.png",
-    "data/Pasted image 20240618140741.png",
-    "Livello di rete/IPv4/Inoltro dei pacchetti IP.md",
-    "data/Pasted image 20240618113316.png",
-    "data/Pasted image 20240618102022.png",
-    "Livello di rete/Livello rete.md",
     "Livello di rete/IPv4",
-    "data/Pasted image 20240618100012.png",
-    "livello trasporto/Trasporto affidabile.md",
     "Livello di rete",
-    "livello trasporto",
+    "Livello trasporto",
     "Livello applicativo",
     "Modelli funzionali",
     "Livello fisico",
-    "Introduzione e architetture",
-    "static/esercitazioni"
+    "Introduzione e architetture"
   ]
 }

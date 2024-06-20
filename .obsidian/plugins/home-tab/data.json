@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Introduzione al corso.md",
-      "timestamp": 1718810644481
+      "filepath": "Livello di linea/VLAN.md",
+      "timestamp": 1718885892980
     },
     {
-      "filepath": "Index.md",
-      "timestamp": 1718810642078
+      "filepath": "Livello di linea/Collegamenti commutati.md",
+      "timestamp": 1718884685065
+    },
+    {
+      "filepath": "Livello di linea/Tecnologie di reti locali.md",
+      "timestamp": 1718876683891
+    },
+    {
+      "filepath": "Livello di linea/Collegamenti broadcast.md",
+      "timestamp": 1718874099090
+    },
+    {
+      "filepath": "Livello di linea/Collegamenti punto-punto.md",
+      "timestamp": 1718874094256
     }
   ],
   "starredFileStore": [],
