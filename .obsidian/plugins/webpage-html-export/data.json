@@ -48,11 +48,12 @@
   "filesToExport": [
     [
       "Introduzione e architetture",
+      "Livello applicativo",
+      "Livello di linea",
       "Livello di rete",
+      "Livello fisico",
       "Livello trasporto",
       "Modelli funzionali",
-      "Livello applicativo",
-      "Livello fisico",
       "Index.md",
       "Introduzione al corso.md"
     ]
