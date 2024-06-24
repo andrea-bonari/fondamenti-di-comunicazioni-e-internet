@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64aad881265b7dd5",
+        "id": "bebaf2d68c4bae8b",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb2a54580f3dc51",
+            "id": "4a4e434c377009f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livello di linea/VLAN.md",
+                "file": "Introduzione al corso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livello di linea/VLAN.md",
+                "file": "Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livello di linea/VLAN.md",
+                "file": "Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livello di linea/VLAN.md"
+                "file": "Introduzione al corso.md"
               }
             }
           }
@@ -150,12 +150,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3bb2a54580f3dc51",
+  "active": "4a4e434c377009f9",
   "lastOpenFiles": [
+    "Index.md",
+    "Introduzione al corso.md",
+    "Livello di linea/WiFi.md",
+    "Livello di linea/ZigBee.md",
+    "Livello di linea/Bluetooth.md",
+    "data/Pasted image 20240624101703.png",
+    "data/Pasted image 20240624101418.png",
+    "Livello di linea/Tecnologie di reti locali.md",
+    "Livello di linea/VLAN.md",
     "data/Pasted image 20240620142508.png",
     "Livello di linea/Collegamenti commutati.md",
     "data/Pasted image 20240620141606.png",
-    "Livello di linea/Tecnologie di reti locali.md",
     "data/Pasted image 20240620135436.png",
     "data/Pasted image 20240620135415.png",
     "data/Pasted image 20240620134342.png",
@@ -163,14 +171,8 @@
     "Livello di linea/Collegamenti broadcast.md",
     "data/Pasted image 20240620114256.png",
     "data/Pasted image 20240620112826.png",
-    "data/Pasted image 20240620112816.png",
-    "data/Pasted image 20240620110406.png",
     "Livello di linea/Collegamenti punto-punto.md",
-    "Index.md",
-    "data/Pasted image 20240620104827.png",
     "Livello di linea/Livello di linea.md",
-    "Livello di linea/VLAN.md",
-    "Introduzione al corso.md",
     "Livello di linea",
     "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
     "Livello di rete/Instadamento in rete/Protocolli di routing.md",
@@ -188,9 +190,6 @@
     "Livello di rete/Protocolli di gestione IP/Protocollo ICMP.md",
     "Livello di rete/IPv4/Protocollo IPv4.md",
     "Livello applicativo/Protocollo DNS.md",
-    "Livello applicativo/HTTP/HTTP2.md",
-    "Livello applicativo/HTTP/Protocollo HTTP.md",
-    "Livello di rete/IPv4/Tabelle di routing.md",
     "Livello di rete/IPv4",
     "Livello di rete",
     "Livello trasporto",

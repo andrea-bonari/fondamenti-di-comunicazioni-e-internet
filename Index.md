@@ -43,3 +43,4 @@ Il corso di Fondamenti di Comunicazioni e Internet copre reti di telecomunicazio
 	3. [[Tecnologie di reti locali]]
 	4. [[Collegamenti commutati]]
 	5. [[VLAN]]
+	6. [[WiFi]]
