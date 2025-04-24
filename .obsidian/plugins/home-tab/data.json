@@ -24,24 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
-      "timestamp": 1745516366094
-    },
-    {
-      "filepath": "Livello di rete/Instadamento in rete/Protocolli di routing in IP.md",
-      "timestamp": 1745516353701
+      "filepath": "Livello di rete/Instadamento in rete/Instradamento in rete.md",
+      "timestamp": 1745516685731
     },
     {
       "filepath": "Index.md",
-      "timestamp": 1745516324618
+      "timestamp": 1745516681262
     },
     {
-      "filepath": "Livello di linea/Collegamenti punto-punto.md",
-      "timestamp": 1720514576556
-    },
-    {
-      "filepath": "Livello di linea/Livello di linea.md",
-      "timestamp": 1720514575496
+      "filepath": "Livello di rete/Instadamento in rete/Algoritmo d Dijkstra.md",
+      "timestamp": 1745516676659
     }
   ],
   "starredFileStore": [],
