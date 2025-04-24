@@ -2,10 +2,9 @@
 >L'algoritmo di Dijkstra si applica al generico nodo sorgente $s$.
 
 ### Complessità
-A differenza dell'algoritmo di Bellman-Ford, che ha complessità asintotica $o(N^{3})$, l'algoritmo di Dijkstra ha complessità $o(N^{2})$, e quindi è più conveniente.
+A differenza dell'algoritmo di Bellman-Ford, che ha complessità asintotica $\mathcal{O}(N^{3})$, l'algoritmo di Dijkstra ha complessità $\mathcal{O}(N^{2})$, e quindi è più conveniente.
 
 ### Caratteristiche
-
 **Vantaggi**:
 - Più flessibile in quanto ogni nodo ha una mappa completa della rete
 - Non è necessario inviare LSP periodicamente ma solo dopo un cambiamento

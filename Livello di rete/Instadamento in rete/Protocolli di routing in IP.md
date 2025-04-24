@@ -5,7 +5,7 @@
 **Vantaggi**:
 - Implementazione facile
 **Contro**:
-- Complessità elevata ($o(N^{3})$)
+- Complessità elevata ($\mathcal{O}(N^{3})$)
 - Possibilità di loop
 - Possibilità di count to infinity
 
