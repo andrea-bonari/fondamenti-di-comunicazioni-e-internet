@@ -38,4 +38,3 @@ Il calcolo è effettuato sul grafo che rappresenta la rete e ad ogni arco è ass
 >5. Digrafo connesso: per ogni coppia $i,j$ esiste almeno un cammino $i\to j$
 >6. Digrafo pesato: $d_{ij}$ peso associato all'arco $(i,j)\in A$
 >7. Lunghezza di un cammino: considerato un cammino $(n_{1},n_{2},\cdots, n_{I})$ la sua lunghezza è $d_{n_{1},n_{2}}+d_{n_{2},n_{3}}+\cdots+d_{n_{I-1},n_{I}}$
-
